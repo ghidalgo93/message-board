@@ -12,16 +12,16 @@ A mini message board application created with Express
 
 ## Dev dependencies
 
--eslint-config-airbnb
--eslint-config-prettier
--eslint-plugin-prettier
--nodemon
--prettier
+- eslint-config-airbnb
+- eslint-config-prettier
+- eslint-plugin-prettier
+- nodemon
+- prettier
 
 ## Dependencies
 
--express
--hbs
+- express
+- hbs
 
 
 
