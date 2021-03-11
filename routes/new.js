@@ -7,9 +7,4 @@ router.get("/", (req, res, next) => {
   res.render("form", { title: "new message" });
 });
 
-/* POST message */
-router.post("/", (req, res, next) => {
-  res.render("index", { title: "Mini Messageboard" });
-});
-
 module.exports = router;
