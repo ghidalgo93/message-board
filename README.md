@@ -8,7 +8,7 @@ A mini message board application created with Express
 1. Clone project locally
 2. Run `npm install` in root directory
 3. Run `npm run devstart` in root directory
-4. Open [http://localhost:3000](localhost at port 3000) to view in browser
+4. Open [localhost port 3000](http://localhost:3000) to view in browser
 
 ## Dev dependencies
 
